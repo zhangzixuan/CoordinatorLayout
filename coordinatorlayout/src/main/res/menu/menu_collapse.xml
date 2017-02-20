@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--showAsAction 注意never与always的区别，一个三个点，一个是放进去-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_settings" android:title="设置"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
