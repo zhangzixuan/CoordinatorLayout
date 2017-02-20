@@ -1,6 +1,6 @@
 # coordinatorLayout
 ### 一.CoordinatorLayout与FloatingActionButton的组合使用
-### 二.CoordinatorLayout与AppBarLayout的组合使用  
+### 二.CoordinatorLayout与AppBarLayout，TabLayout的组合使用  
 ####1.ViewPager的实现
 ####2.底部弹出栏的实现
 #####（1）PopupWindow的实现
