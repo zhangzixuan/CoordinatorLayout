@@ -20,6 +20,6 @@
         android:id="@+id/collapsing"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text=" AppBarLayout与CollapsingToolbarLayout" />
+        android:text="AppBarLayout与CollapsingToolbarLayout" />
 
 </LinearLayout>
